@@ -1,4 +1,4 @@
-# SVM Research
+# SVM Research - Kernels
 
 Este repositorio contiene un _notebook_ donde se presenta una investigación y ejemplos prácticos sobre **Support Vector Machines (SVM)**. Se abordan:
 
